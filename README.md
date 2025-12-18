@@ -226,18 +226,9 @@ Run tests with pytest:
 pytest tests/
 ```
 
-## Contributing
-
-Contributions are welcome! Areas for improvement:
-- Add more detailed syntax explanations
-- Implement code execution and validation
-- Add support for V's package ecosystem
-- Create interactive learning modules
-- Add performance benchmarks and comparisons
-
 ## License
 
-This project is part of the V programming language ecosystem. See the main V repository for licensing information.
+MIT
 
 ## Related Projects
 
